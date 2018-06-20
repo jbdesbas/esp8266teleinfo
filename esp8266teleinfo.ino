@@ -1,4 +1,4 @@
-//https://geo80blog.wordpress.com/2017/02/25/recuperer-les-informations-du-compteur-edf-avec-un-esp8266/
+//https://jbdesbas.wordpress.com/2017/02/25/recuperer-les-informations-du-compteur-edf-avec-un-esp8266/
 
 #include <ESP8266WiFi.h>
 #include <WiFiClient.h>
